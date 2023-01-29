@@ -1,0 +1,6 @@
+C:\f program\FlipCoin\bin\Debug\FlipCoin.exe
+C:\f program\FlipCoin\bin\Debug\FlipCoin.pdb
+C:\f program\FlipCoin\obj\Debug\FlipCoin.csproj.AssemblyReference.cache
+C:\f program\FlipCoin\obj\Debug\FlipCoin.csproj.CoreCompileInputs.cache
+C:\f program\FlipCoin\obj\Debug\FlipCoin.exe
+C:\f program\FlipCoin\obj\Debug\FlipCoin.pdb

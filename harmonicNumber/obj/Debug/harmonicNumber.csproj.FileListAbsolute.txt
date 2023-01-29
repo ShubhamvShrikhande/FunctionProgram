@@ -1,0 +1,2 @@
+C:\f program\harmonicNumber\obj\Debug\harmonicNumber.csproj.AssemblyReference.cache
+C:\f program\harmonicNumber\obj\Debug\harmonicNumber.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\f program\evenodd\bin\Debug\evenodd.exe
+C:\f program\evenodd\bin\Debug\evenodd.pdb
+C:\f program\evenodd\obj\Debug\evenodd.csproj.AssemblyReference.cache
+C:\f program\evenodd\obj\Debug\evenodd.csproj.CoreCompileInputs.cache
+C:\f program\evenodd\obj\Debug\evenodd.exe
+C:\f program\evenodd\obj\Debug\evenodd.pdb
